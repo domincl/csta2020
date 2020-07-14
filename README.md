@@ -1,6 +1,6 @@
 # Bringing Modern Software Practices to Your Department and Your Classroom
 
-Download presentation: [ModernSoftwarePractices-Team.pdf](ModernSoftwarePractices-Team.pdf)
+Download presentation: [CSTA2020-ModernSoftwarePractices.pdf](CSTA2020-ModernSoftwarePractices.pdf)
 
 ## Instructor
 - Github: @dominicl
@@ -17,7 +17,8 @@ Download presentation: [ModernSoftwarePractices-Team.pdf](ModernSoftwarePractice
 - https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors
 
 ## Take Actions
-- https://community.canvaslms.com/groups/gamification/blog/2016/03/23/grade-with-emoji
+- https://education.github.com/csta
 - https://education.github.com/teachers 
 - https://classroom.github.com/
 - https://github.com/organizations/plan
+- https://community.canvaslms.com/groups/gamification/blog/2016/03/23/grade-with-emoji
